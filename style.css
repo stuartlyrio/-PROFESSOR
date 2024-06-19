@@ -1,0 +1,75 @@
+body {
+    display: inline;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  #cabecalho {
+  
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  #box {
+   
+    display: block;
+    border: 8px double ;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 10px auto 40px;
+    padding: 10px 17px;
+    min-width: 135px;
+    max-width: 250px;
+  }
+  ul li {
+    color:aqua ;
+  }
+  table{
+    display: inline;
+    background-position: center;
+  }
+  
+  .head {
+    display: inline;
+    background-color: rgb(0, 0, 0);
+    border: 5px double ;
+    
+    border-radius: 8px;
+    margin: 10px 20px 10px;
+    padding: 10px 17px;
+    min-width: 135px;
+    max-width: 250px;
+  
+  }
+  
+  
+  
+   tr td {
+    
+    text-align: center;
+   color: aqua;
+   padding: px;
+  }
+  
+  .dia {
+    background-color: rgb(25, 26, 26);
+    text-align: justify;
+    display:block;
+    width: 200px;
+    height: 200px;
+    border: 5px double ;
+    
+  }
+
+  #back {
+    background-color: rgb(21, 69, 199);
+    margin:auto;
+    height: 42px;
+    width:fit-content;
+    border: 8px double ;
+    border-radius: 5px;
+    font-style: italic;
+    color: white;
+    font-size: 40px;
+    
+  }
